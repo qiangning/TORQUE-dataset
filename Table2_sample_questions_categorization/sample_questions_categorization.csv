@@ -1,0 +1,201 @@
+,question,category
+0,What happened after sniper attacks?,
+1,What event began before two dozen people were slightly hurt?,begin
+2,What happened after the forum opened?,
+3,What event will begin?,begin
+4,What happened after the rally began?,begin
+5,What could happen after the downgrading?,uncertain
+6,What event will not happen if the scheme is broadened?,"hypo,neg"
+7,"What is expected to happen to global demand in 1997, after the boom years of the 1990s?",opinion
+8,What will happen after Jilek help Zimbabwe's travel agencies?,
+9,What happened before he was asked to name a reason to elect him?,
+10,What happened after the Ling said but has not finished?,"restrict participants,composition"
+11,What will end after he is elected?,end
+12,What happened since the rise in production?,
+13,What occured before the decision to dispatch the mission?,
+14,What happened after the UN made a statement?,
+15,What might take place after the crackdown?,uncertain
+16,What happened before Bush gave four key speeches?,
+17,What started before Mr. Fournier was prohibited from organizing his own defense?,begin
+18,What will happen as a result of the November 1995 accord?,restrict causality
+19,What happened after the quarantine was lifted?,
+20,What happened after Mathew Sinclair replaced McCullum?,
+21,What do the Kinshasa authorities hope would occur after Tshipaka was captured?,opinion
+22,What will happen after the negotiations end?,end
+23,What happened while the charges were being pressed?,
+24,What happened after the crackdown?,
+25,What will happen after something rose?,
+26,What started after the communique made an announcement?,begin
+27,What happened after Annette Nicholls went missing?,
+28,What will likely occur after the deregulation?,uncertain
+29,What happened after the assistance from the US government?,
+30,What will have happened before the upturn?,
+31,What happened before something was predicted?,
+32,What events were occurring during the competition?,overlap
+33,What happened after the fourth wicket stand?,
+34,What happened after Nalbandian was ranked?,
+35,What  occured before the cooperation began among the FBI agents and police?,begin
+36,What event will happen if the scheme is broadened?,hypo
+37,What happened before an event was established in 2001?,
+38,What happened before the ordination?,
+39,What happened after the earthquake?,
+40,What happened before the injured were treated?,
+41,What happened before Murdock reports?,
+42,Why did Australia contribute troops before the ousting of Saddam?,why
+43,What will happen after the earnings fall?,
+44,What happened after magnified?,
+45,What happened after the schedule?,
+46,What happened before the doomed Irish nationalist rebellion?,
+47,What has not taking place before the official figures show?,neg
+48,What may happen after regulatory authorities are persuaded?,uncertain
+49,What is happening after ICJ commented on the crackdown?,
+50,What had started before the EU and some European countries began preparing for EU membership?,begin
+51,What began before the raid in Pakistan's South Waziristan tribal region?,begin
+52,What happened as the price of Columbia shares was being cut?,overlap
+53,What happened during the decision by the Peruvian Congress?,overlap
+54,What happened before authorities found stickers?,
+55,What might happen after the vote?,uncertain
+56,What happened after Al-Arabiya reported?,
+57,What will happen after many sacrifice their lives?,
+58,What happened while a bodyguard was killed?,overlap
+59,What occurred before the Taliban fighter commander made a statement?,
+60,What happened while Hussey was bowled for the third time in the series?,overlap
+61,What will happen after two hostages were seriously injured?,
+62,What has begun before Chinese Taipei plays the final?,begin
+63,What will occur before Pharrell Williams appears?,
+64,What happened before Tueni returned from France?,
+65,What started happening before the member was arrested?,begin
+66,What happened before the estimate was made?,
+67,What happened before Khartoum rejected a plan?,
+68,What will happen before the takeover battle?,
+69,What occurred before the scientists descended?,
+70,What did Rayan stop doing before saying that the Hamas movement had agreed with Abbas?,"restrict participants,neg"
+71,What did Australia do with troops before the ousting of Saddam?,restrict participants
+72,What happened before the civil war almost happened?,
+73,What was still happening after Rahman hailed the decision?,overlap
+74,What has happened before the transition?,
+75,What did Morales want to happen after Washington had a program to eradicate coca?,"intention,restrict participants"
+76,What is happening after the ceremony?,
+77,What will happen after Chile takes part?,
+78,What would start after the Heilongjiang provincial government's conference?,begin
+79,What happened after Europe's approach to Tehran was made public?,
+80,What started before someone said?,begin
+81,What was happening during the last two years?,overlap
+82,What was happening while Sterling was at 2.7492 marks from 2.7544?,overlap
+83,What happened after the firemen used sledgehammers?,
+84,What happened after the third successive fall?,
+85,What happened after the Ling said?,
+86,What happened before something was proposed?,
+87,What does the service provider do to make money when companies carry out business via the data centre?,"restrict participants,overlap"
+88,What might happen before big countries could not be expected?,"uncertain,opinion,neg"
+89,What began after the raid in Pakistan's South Waziristan tribal region?,begin
+90,What happened after he said?,
+91,What started after the attacks?,begin
+92,What could have been happening prior to 2001?,uncertain
+93,What happened after German investigators found traces of polonium?,
+94,What did Hass do before he went to work as a spy?,restrict participants
+95,What is happening after a sharp price move?,
+96,What started before the assassination?,begin
+97,What might happen after the victories?,uncertain
+98,What happened before the meeting?,
+99,What began before the Doha round?,begin
+100,What might happen after the FTSE 100 index was quoted 9.6 points lower?,uncertain
+101,What do top executives intend to do to rewards after the increase in sales during the latest quarter?,"restrict participants,intention,overlap"
+102,What happened before something fell?,"uncertain,neg"
+103,What will probably not happen in the future?,
+104,What happened after Washington's defense alliances?,
+105,What may happen after Blair's warning?,uncertain
+106,What started before Bezhuashvili said relations were not normal?,"begin,neg"
+107,What started before the reference was dropped?,begin
+108,What happened after the INEC said in an official statement?,
+109,What has happened since last year's earnings?,
+110,What event occurred after the shepherds and farmer took shelter?,
+111,What event might have happened before the claim?,uncertain
+112,"According to the President, what will not happen after Annan's suggestion?","opinion,neg"
+113,What was happening while Annan made a suggestion?,overlap
+114,What happened before the IBM spokeswoman said something?,
+115,What started before the investigation?,begin
+116,What happened after Abu Marzuk was arrested in 1995?,
+117,What events began after Netanyahu's office made a statement?,begin
+118,What was happening when Slepian was chatting?,overlap
+119,What did Kabila's forces say happened after Thursday?,"restrict participants,opinion"
+120,What happened while the spokesperson said something?,overlap
+121,What event will begin after Lavrov was quoted? ,begin
+122,What will happen at the same time a UN resolution on Iran's nuclear programme is discussed?,overlap
+123,What happened before reports were made?,
+124,What may happen after the deadline?,uncertain
+125,What happened before it was reported in 1993?,
+126,What is already happening according to Obama's opinion?,overlap
+127,What happened after Hussey was bowled for the third time in the series?,
+128,What happened before Ng's remarks?,
+129,What does Kenya want to prepare to meet in the future?,restrict participants
+130,What definitely happened before scientists found a unique honeyeater bird species?,uncertain
+131,What occured after the concerns over stagnant personal spending?,
+132,What happened after the result?,
+133,What happened after the bomb attacks took place?,
+134,What happened after the men won the event over the 2000 Champions?,
+135,What will likely happen after Steve feels like he was too high?,uncertain
+136,What started before authorities spent hours retrieving documents?,begin
+137,What was happening during this week?,overlap
+138,What started before he said?,begin
+139,What event happened after a bomb exploded?,
+140,What might happen after obliging Beijing?,uncertain
+141,What happened after the offer?,
+142,What happened after the announcement?,
+143,What happened before one of the cubs was crushed??,
+144,What should happen in the future according to Obama's opinion?,opinion
+145,What will happen after the regulations according to UNOS?,
+146,What may happen after Iran's warning to Germany?,uncertain
+147,What happened before someone fell ill?,
+148,What will definitely happen after the failure happened?,"uncertain,neg"
+149,What had to happen before the annual resolution?,hypo
+150,What event will likely happen but hasn't yet?,"uncertain,neg,composition"
+151,What happened before the officials discussed their strategy?,
+152,What should happen before promoting?,hypo
+153,What happened while the plane crashed?,overlap
+154,What has happened during the past ten years?,overlap
+155,What will happen after the list was compiled?,
+156,What happened while riot police deployed in Lagos?,overlap
+157,What usually happens after common shares are acquired?,repetitive
+158,What happened before security was tightened?,
+159,What happened after Annan made a suggestion?,
+160,What started before something was invaded?,begin
+161,What proceeded the meeting's start?,
+162,What happened after Chavez hailed the victories?,
+163,What happened before the inspection was abandoned?,
+164,What happened after Chulanont listed?,
+165,What happened after 31 panda cubs were born?,
+166,What happened before riot police deployed in Lagos?,
+167,What happened after the army sent in the bulldozers again on Thursday?,
+168,What started after the wins?,begin
+169,What happened after something was sold illegally?,
+170,What happens after having a big computer?,
+171,What event might happen after the energy company stopped something?,"uncertain,neg"
+172,What happened during destroyed?,overlap
+173,What happened before the children were paralyzed?,
+174,What happened before the people were reinfected?,
+175,"What happened before Hewlett-Packard bought 730,070 Octel shares?",
+176,What had started before the massive protests?,begin
+177,What happened after the apology included an offer of compensation?,
+178,What happened after Paula Clennell went missing?,
+179,What happened after it was reported in 1993?,
+180,What happened after something was added?,
+181,What happened after the events on board the Mavi Marmara?,
+182,What will happen after efforts?,
+183,What would happen before a test?,
+184,What would happen after the committee set standards?,
+185,What will happen during the short term?,overlap
+186,What happened after Nzambo told?,
+187,What must the company do with the trials before they can put the vaccine into production?,hypo
+188,What happened after import?,
+189,What will happen after give?,
+190,What event happened after Wednesday?,
+191,What is likely to happen after initiatives?,uncertain
+192,What happened before three Israeli women were killed by a suicide bomber?,
+193,What happened after Operation Winter Race was designed?,
+194,What happened after Priebke confessed?,
+195,What event will begin after the competition?,begin
+196,What happened before Honore's department started contact with French prosecutors?,begin
+197,What will happen after the takeover battle?,
+198,What started before the crackdown?,begin
+199,What started before something was added?,begin

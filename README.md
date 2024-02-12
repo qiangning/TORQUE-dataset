@@ -11,6 +11,8 @@ This repository contains the TORQUE dataset published in the following paper:
 ```
 The main website hosting all relevant information about this paper can be found [here](https://allennlp.org/torque.html).
 
+The modeling code can be found [here](https://github.com/rujunhan/TORQUE).
+
 ## Description
 - `./data` contains the entire dataset and our original train/dev/test split. Note we have removed all the annotations in the test set. For evaluation, please visit our leaderboard. In addition, we have also included `question_clustering.json` that describes the clusters of contrast questions.
 - `./basic_stats` contains the script `basic_stats.py` that produces Table 3, Figure 12, Figure 13, Figure 15, and Figure 16. Please note that those tables and figures in the paper were generated on the entire dataset, while the ones generated here are only on the training set, so you may expect some minor mismatches.
